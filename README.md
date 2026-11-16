@@ -9,3 +9,23 @@ Repository managed together with a DeepSeek Super-agent.
 - Keep requests explicit: what to change, where, and how to verify it.
 
 Edit this file to describe the project.
+
+## Getting Started
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Start the local development server:
+
+```bash
+npm run dev
+```
+
+Build the project for production:
+
+```bash
+npm run build
+```
