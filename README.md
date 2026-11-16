@@ -9,3 +9,23 @@ Repository managed together with a DeepSeek Super-agent.
 - Keep requests explicit: what to change, where, and how to verify it.
 
 Edit this file to describe the project.
+
+## Getting Started
+
+安装依赖：
+
+```bash
+npm install
+```
+
+启动本地开发服务器：
+
+```bash
+npm run dev
+```
+
+构建生产版本：
+
+```bash
+npm run build
+```
