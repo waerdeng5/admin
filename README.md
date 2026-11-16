@@ -12,19 +12,19 @@ Edit this file to describe the project.
 
 ## Getting Started
 
-Install the dependencies:
+安装依赖：
 
 ```bash
 npm install
 ```
 
-Start the local development server:
+启动本地开发服务器：
 
 ```bash
 npm run dev
 ```
 
-Build the project for production:
+构建生产版本：
 
 ```bash
 npm run build
